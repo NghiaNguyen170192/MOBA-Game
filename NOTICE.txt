@@ -1,0 +1,9 @@
+MOBA Turn-based Online Game
+Assignment 1, COSC2440 Software Architechture: Design and Implementation
+Copyright 2013	Nguyen Quoc Trong Nghia - s3343711
+                 Vuong Do Thanh Huy - s3342135
+                 Kieu Hoang Anh - s3275058
+RMIT International University Vietnam
+
+This assignment includes software developed by the above mentioned 
+student(s.)
